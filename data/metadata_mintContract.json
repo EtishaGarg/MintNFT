@@ -1,0 +1,15 @@
+{
+  "attributes": [
+      {
+          "trait_type": "Color",
+          "value": "Black"
+      },
+      {
+          "trait_type": "Type",
+          "value": "Text"
+      }
+  ],
+  "description": "Text : Unblocking Chain",
+  "image": "https://ipfs.io/ipfs/QmWKeGHeraiJtjamBbD46JmjqpP6G4Zkns3omuXR3c3W6A",
+  "name": "Unblocking Chain"
+}
